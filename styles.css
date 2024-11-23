@@ -1294,6 +1294,21 @@ pre code {
     max-width: 8.3333333333%;
   }
 
+  .dev-icons-table {
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+}
+
+.dev-icons-table td {
+    padding: 20px;
+}
+
+.dev-icons-table td span {
+    font-size: 50px;
+}
+
+
   .col-lg-2 {
     flex: 0 0 16.6666666667%;
     max-width: 16.6666666667%;
